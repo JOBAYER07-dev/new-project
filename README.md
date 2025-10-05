@@ -6,9 +6,13 @@ The design emphasizes visual energy and motivation, creating a premium feel that
 Technologies Used:
 
 HTML
+
 Tailwind CSS
+
 Font Awesome
+
 GitHub Pages
+
 
 Problem & Solution:
 
